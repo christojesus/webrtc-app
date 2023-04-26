@@ -45,7 +45,7 @@ const VideoCard = () => {
 
   const handleSendSport = (event) => {
     event.preventDefault();
-    console.log("url");
+    console.log("Video enviado");
   };
 
   return (
